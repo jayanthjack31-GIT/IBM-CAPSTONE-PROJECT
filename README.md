@@ -218,6 +218,7 @@ Regular workflow optimization
 │     ├── Risk Register & SWOT
 │     ├── Risk Mitigation Matrix
 │     └── Final Presentation
+[THE ABOVE DOCUMENTS ARE ATTACHED IN (IBM- CAPSTONES.rar)]
 │── Datasets/
 │     ├── appointment_data.csv
 │     ├── feedback_data.csv
